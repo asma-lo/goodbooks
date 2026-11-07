@@ -8,6 +8,8 @@
 Application web pour explorer le jeu de données **Goodbooks-10k** (10 000 livres) :
 une **étagère interactive** (hauteur = note, largeur = votes, couleur = genre), des filtres,
 des **diagrammes circulaires cliquables**, des graphiques animés et une API REST.
+   ![Aperçu](docs/screenshot.png)    !
+
 
 ## Interface
 - Fond aurore animé et cartes en verre dépoli (glassmorphism)
